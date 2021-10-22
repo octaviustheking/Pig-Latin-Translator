@@ -6,6 +6,10 @@
         <meta charset="utf-8">
         <title>Pig Latin Translator</title>
         <style>
+            #h2{
+                color: white;
+                width: 100%;
+                font-family: monospace;
             #input{
                 color: black;
                 width: 100%;
@@ -39,6 +43,8 @@
         </style>
     </head>
     <body>
+        <h2 id="h2">Elcomeway otay hetay Igpay Atinlay Ranslatortay!</h2>
+        <h2 id="h2">(Welcome to the Pig Latin Translator!</h2>
         <input id="input" type="text" value="Input">
         <br>
         <br>
