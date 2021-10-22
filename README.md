@@ -1,12 +1,10 @@
 # Pig Latin Translator
-## Elcomeway otay hetay Igpay Atinlay Ranslatortay!
-## (Welcome to the Pig Latin Translator!)
 <html>
     <head>
         <meta charset="utf-8">
         <title>Pig Latin Translator</title>
         <style>
-            #h2{
+            h2.sub{
                 color: white;
                 width: 100%;
                 font-family: monospace;
@@ -43,8 +41,8 @@
         </style>
     </head>
     <body>
-        <h2 id="h2">Elcomeway otay hetay Igpay Atinlay Ranslatortay!</h2>
-        <h2 id="h2">(Welcome to the Pig Latin Translator!</h2>
+        <h2 class="sub">Elcomeway otay hetay Igpay Atinlay Ranslatortay!</h2>
+        <h2 class="sub">(Welcome to the Pig Latin Translator!</h2>
         <input id="input" type="text" value="Input">
         <br>
         <br>
